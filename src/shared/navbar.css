@@ -1,0 +1,22 @@
+#logo{
+    width: 200px;
+    height: 100px;
+  }
+#nav{
+    background-color: #FFF5DE;
+}
+body{
+    background-color: #FFF5DE; 
+}
+
+.nav-text{
+
+    color:#3C5186 ;
+}
+
+.ref{
+    color: #3C5186;
+    color: #9B72AA;
+    color: #C6B4CE;
+    color: #FFF5DE;
+}
