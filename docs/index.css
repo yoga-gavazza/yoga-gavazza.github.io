@@ -2,7 +2,31 @@
     font-family: 'SherrySwash';
     src: local('SherrySwash'), url('./Font/cherrySwash/CherrySwash-Regular.ttf') format('truetype');
   }
-  @font-face {
-    font-family: 'SherrySwash';
-    src: local('SherrySwash'), url('./Font/cherrySwash/CherrySwash-Bold.ttf') format('truetype');
-  }
+@font-face {
+  font-family: 'SherrySwash-bold';
+  src: local('SherrySwash'), url('./Font/cherrySwash/CherrySwash-Bold.ttf') format('truetype');
+}
+@font-face {
+  font-family: 'Roboto-thin';
+  src: local('Roboto'), url('./Font/roboto/Roboto-Thin.ttf') format('truetype');
+}
+@font-face {
+  font-family: 'Roboto-black';
+  src: local('Roboto'), url('./Font/roboto/Roboto-Black.ttf') format('truetype');
+}
+@font-face {
+  font-family: 'Roboto-bold';
+  src: local('Roboto'), url('./Font/roboto/Roboto-Bold.ttf') format('truetype');
+}
+@font-face {
+  font-family: 'Roboto-light';
+  src: local('Roboto'), url('./Font/roboto/Roboto-Light.ttf') format('truetype');
+}
+@font-face {
+  font-family: 'Roboto-medium';
+  src: local('Roboto'), url('./Font/roboto/Roboto-Medium.ttf') format('truetype');
+}
+@font-face {
+  font-family: 'Roboto';
+  src: local('Roboto'), url('./Font/roboto/Roboto-Regular.ttf') format('truetype');
+}

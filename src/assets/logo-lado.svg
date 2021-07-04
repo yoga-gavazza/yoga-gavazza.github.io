@@ -2,12 +2,12 @@
 <!-- Created with Inkscape (http://www.inkscape.org/) -->
 
 <svg
-   width="600"
-   height="400"
+   width="800"
+   height="200"
    version="1.1"
-   viewBox="0 0 158.74999 105.83334"
+   viewBox="0 0 211.66665 52.91667"
    id="svg74"
-   sodipodi:docname="logo yogini gavazza terapias.svg"
+   sodipodi:docname="logo-lado.svg"
    inkscape:version="1.1 (c4e8f9ed74, 2021-05-24)"
    xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
    xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
@@ -30,13 +30,13 @@
      showgrid="false"
      units="px"
      width="500px"
-     inkscape:zoom="0.77058782"
-     inkscape:cx="211.52683"
-     inkscape:cy="458.09185"
+     inkscape:zoom="1.5411756"
+     inkscape:cx="260.19098"
+     inkscape:cy="161.24054"
      inkscape:window-width="1920"
-     inkscape:window-height="1051"
-     inkscape:window-x="1"
-     inkscape:window-y="1080"
+     inkscape:window-height="1006"
+     inkscape:window-x="0"
+     inkscape:window-y="0"
      inkscape:window-maximized="1"
      inkscape:current-layer="svg74" />
   <metadata
@@ -51,7 +51,7 @@
     </rdf:RDF>
   </metadata>
   <g
-     transform="matrix(0.66100995,0,0,0.66100995,276.35027,-79.721338)"
+     transform="matrix(0.62360633,0,0,0.62360633,238.64975,-77.349732)"
      id="g26">
     <g
        fill-rule="evenodd"
@@ -150,7 +150,7 @@
      stroke-width="0.78502"
      aria-label="Yogini Gavazza"
      id="g54"
-     transform="matrix(0.789407,0,0,0.789407,-7.6152277,-49.257331)">
+     transform="matrix(0.52424032,0,0,0.52424032,98.881177,-52.757351)">
     <path
        d="m 19.085,161.85 h -1.0362 v -9.4202 l -7.1594,-14.13 h 1.1304 l 6.6256,13.031 6.5,-13.031 h 0.94202 l -7.0024,14.13 z"
        id="path28" />
@@ -195,7 +195,7 @@
      stroke-width="0.78502"
      aria-label="Terapias"
      id="g72"
-     transform="matrix(0.789407,0,0,0.789407,-7.6152277,-49.257331)">
+     transform="matrix(0.52424032,0,0,0.52424032,98.881177,-52.757351)">
     <path
        d="m 77.648,166.9 v 0.7285 h -4.2956 v 18.112 h -0.82898 v -18.112 h -4.3459 V 166.9 Z"
        id="path56" />
@@ -220,5 +220,197 @@
     <path
        d="m 148.48,174.84 q -0.65313,0 -1.1556,0.42705 -0.50241,0.42705 -0.50241,1.0551 0,0.62802 0.55265,1.1556 0.57778,0.52753 1.3565,0.9797 0.80386,0.42705 1.6077,0.92946 0.80386,0.50242 1.3565,1.2812 0.57777,0.77874 0.57777,1.7836 0,1.4821 -1.1304,2.5372 -1.1053,1.03 -2.6879,1.03 -1.0048,0 -1.884,-0.42705 -0.8541,-0.45217 -1.256,-1.1807 v -1.2058 q 0.95458,2.1101 3.0647,2.1101 1.3063,0 2.1855,-0.80386 0.90434,-0.80386 0.90434,-1.7836 0,-1.0048 -0.57777,-1.6831 -0.55266,-0.67825 -1.3565,-1.1555 -0.80386,-0.47729 -1.6077,-0.92947 -0.77874,-0.47729 -1.3565,-1.1304 -0.55266,-0.67826 -0.55266,-1.5575 0,-0.90434 0.70338,-1.5072 0.7285,-0.62802 1.8589,-0.62802 1.1304,0 1.9343,0.87922 v 1.03 q -0.80386,-1.2058 -2.0348,-1.2058 z"
        id="path70" />
+  </g>
+  <g
+     transform="matrix(0.62360633,0,0,0.62360633,238.64975,-77.349732)"
+     id="g26-0">
+    <g
+       fill-rule="evenodd"
+       shape-rendering="auto"
+       id="g20-9">
+      <g
+         fill-opacity="0.37647"
+         id="g10-3">
+        <path
+           d="m -295.99,205.08 c 46.318,4.813 55.489,-18.939 69.326,-57.515 -39.782,11.515 -54.779,21.272 -69.326,57.515 z"
+           color="#000000"
+           color-rendering="auto"
+           fill="#ff4d78"
+           image-rendering="auto"
+           solid-color="#000000"
+           style="text-indent:0;text-decoration-line:none;text-decoration-style:solid;text-decoration-color:#000000;text-transform:none;white-space:normal;isolation:auto;mix-blend-mode:normal"
+           id="path4-6" />
+        <path
+           d="m -295.99,205.08 c 46.318,4.813 65.011,3.7664 78.847,-34.81 -39.782,11.515 -64.3,-1.4328 -78.847,34.81 z"
+           color="#000000"
+           color-rendering="auto"
+           fill="#ff8c59"
+           image-rendering="auto"
+           solid-color="#000000"
+           style="text-indent:0;text-decoration-line:none;text-decoration-style:solid;text-decoration-color:#000000;text-transform:none;white-space:normal;isolation:auto;mix-blend-mode:normal"
+           id="path6-0" />
+        <path
+           d="m -297.96,206.27 c 46.377,-4.2054 37.367,-37.197 43.508,-77.717 -36.817,18.968 -36.22,39.35 -43.508,77.717 z"
+           color="#000000"
+           color-rendering="auto"
+           fill="#ff4dff"
+           image-rendering="auto"
+           solid-color="#000000"
+           style="text-indent:0;text-decoration-line:none;text-decoration-style:solid;text-decoration-color:#000000;text-transform:none;white-space:normal;isolation:auto;mix-blend-mode:normal"
+           id="path8-6" />
+      </g>
+      <path
+         d="m -297.96,206.27 c 46.377,-4.2054 12.831,-38.662 18.972,-79.181 -36.817,18.968 -18.409,42.097 -18.972,79.181 z"
+         color="#000000"
+         color-rendering="auto"
+         fill="#ff4d78"
+         fill-opacity="0.81518"
+         image-rendering="auto"
+         solid-color="#000000"
+         style="text-indent:0;text-decoration-line:none;text-decoration-style:solid;text-decoration-color:#000000;text-transform:none;white-space:normal;isolation:auto;mix-blend-mode:normal"
+         id="path12-2" />
+      <path
+         d="m -297.96,206.27 c -46.377,-4.2054 -12.831,-38.662 -18.972,-79.181 36.817,18.968 17.452,57.203 18.972,79.181 z"
+         color="#000000"
+         color-rendering="auto"
+         fill="#7880ff"
+         fill-opacity="0.81848"
+         image-rendering="auto"
+         solid-color="#000000"
+         style="text-indent:0;text-decoration-line:none;text-decoration-style:solid;text-decoration-color:#000000;text-transform:none;white-space:normal;isolation:auto;mix-blend-mode:normal"
+         id="path14-6" />
+      <path
+         d="m -299.93,205.08 c -46.318,4.813 -55.489,-18.939 -69.326,-57.515 39.782,11.515 54.779,21.272 69.326,57.515 z"
+         color="#000000"
+         color-rendering="auto"
+         fill="#ff4d78"
+         fill-opacity="0.37647"
+         image-rendering="auto"
+         solid-color="#000000"
+         style="text-indent:0;text-decoration-line:none;text-decoration-style:solid;text-decoration-color:#000000;text-transform:none;white-space:normal;isolation:auto;mix-blend-mode:normal"
+         id="path16-1" />
+      <path
+         d="m -299.93,205.08 c -46.318,4.813 -65.011,3.7664 -78.847,-34.81 39.782,11.515 64.3,-1.4328 78.847,34.81 z"
+         color="#000000"
+         color-rendering="auto"
+         fill="#ff8c59"
+         fill-opacity="0.37647"
+         image-rendering="auto"
+         solid-color="#000000"
+         style="text-indent:0;text-decoration-line:none;text-decoration-style:solid;text-decoration-color:#000000;text-transform:none;white-space:normal;isolation:auto;mix-blend-mode:normal"
+         id="path18-8" />
+    </g>
+    <g
+       transform="matrix(1.4216,0.73519,-0.73519,1.4216,-340.36,-576.59)"
+       id="g24-7">
+      <path
+         d="m 248.22,422.31 c -26.946,10.977 -31.414,-9.9194 -46.452,-30.645 25.877,-0.0397 31.396,11.443 46.452,30.645 z"
+         color="#000000"
+         color-rendering="auto"
+         fill="#ff4df9"
+         fill-opacity="0.37647"
+         fill-rule="evenodd"
+         image-rendering="auto"
+         shape-rendering="auto"
+         solid-color="#000000"
+         style="text-indent:0;text-decoration-line:none;text-decoration-style:solid;text-decoration-color:#000000;text-transform:none;white-space:normal;isolation:auto;mix-blend-mode:normal"
+         id="path22-9" />
+    </g>
+  </g>
+  <g
+     transform="matrix(0.62360633,0,0,0.62360633,238.64975,-77.349732)"
+     id="g26-2">
+    <g
+       fill-rule="evenodd"
+       shape-rendering="auto"
+       id="g20-0">
+      <g
+         fill-opacity="0.37647"
+         id="g10-2">
+        <path
+           d="m -295.99,205.08 c 46.318,4.813 55.489,-18.939 69.326,-57.515 -39.782,11.515 -54.779,21.272 -69.326,57.515 z"
+           color="#000000"
+           color-rendering="auto"
+           fill="#ff4d78"
+           image-rendering="auto"
+           solid-color="#000000"
+           style="text-indent:0;text-decoration-line:none;text-decoration-style:solid;text-decoration-color:#000000;text-transform:none;white-space:normal;isolation:auto;mix-blend-mode:normal"
+           id="path4-3" />
+        <path
+           d="m -295.99,205.08 c 46.318,4.813 65.011,3.7664 78.847,-34.81 -39.782,11.515 -64.3,-1.4328 -78.847,34.81 z"
+           color="#000000"
+           color-rendering="auto"
+           fill="#ff8c59"
+           image-rendering="auto"
+           solid-color="#000000"
+           style="text-indent:0;text-decoration-line:none;text-decoration-style:solid;text-decoration-color:#000000;text-transform:none;white-space:normal;isolation:auto;mix-blend-mode:normal"
+           id="path6-7" />
+        <path
+           d="m -297.96,206.27 c 46.377,-4.2054 37.367,-37.197 43.508,-77.717 -36.817,18.968 -36.22,39.35 -43.508,77.717 z"
+           color="#000000"
+           color-rendering="auto"
+           fill="#ff4dff"
+           image-rendering="auto"
+           solid-color="#000000"
+           style="text-indent:0;text-decoration-line:none;text-decoration-style:solid;text-decoration-color:#000000;text-transform:none;white-space:normal;isolation:auto;mix-blend-mode:normal"
+           id="path8-5" />
+      </g>
+      <path
+         d="m -297.96,206.27 c 46.377,-4.2054 12.831,-38.662 18.972,-79.181 -36.817,18.968 -18.409,42.097 -18.972,79.181 z"
+         color="#000000"
+         color-rendering="auto"
+         fill="#ff4d78"
+         fill-opacity="0.81518"
+         image-rendering="auto"
+         solid-color="#000000"
+         style="text-indent:0;text-decoration-line:none;text-decoration-style:solid;text-decoration-color:#000000;text-transform:none;white-space:normal;isolation:auto;mix-blend-mode:normal"
+         id="path12-9" />
+      <path
+         d="m -297.96,206.27 c -46.377,-4.2054 -12.831,-38.662 -18.972,-79.181 36.817,18.968 17.452,57.203 18.972,79.181 z"
+         color="#000000"
+         color-rendering="auto"
+         fill="#7880ff"
+         fill-opacity="0.81848"
+         image-rendering="auto"
+         solid-color="#000000"
+         style="text-indent:0;text-decoration-line:none;text-decoration-style:solid;text-decoration-color:#000000;text-transform:none;white-space:normal;isolation:auto;mix-blend-mode:normal"
+         id="path14-2" />
+      <path
+         d="m -299.93,205.08 c -46.318,4.813 -55.489,-18.939 -69.326,-57.515 39.782,11.515 54.779,21.272 69.326,57.515 z"
+         color="#000000"
+         color-rendering="auto"
+         fill="#ff4d78"
+         fill-opacity="0.37647"
+         image-rendering="auto"
+         solid-color="#000000"
+         style="text-indent:0;text-decoration-line:none;text-decoration-style:solid;text-decoration-color:#000000;text-transform:none;white-space:normal;isolation:auto;mix-blend-mode:normal"
+         id="path16-2" />
+      <path
+         d="m -299.93,205.08 c -46.318,4.813 -65.011,3.7664 -78.847,-34.81 39.782,11.515 64.3,-1.4328 78.847,34.81 z"
+         color="#000000"
+         color-rendering="auto"
+         fill="#ff8c59"
+         fill-opacity="0.37647"
+         image-rendering="auto"
+         solid-color="#000000"
+         style="text-indent:0;text-decoration-line:none;text-decoration-style:solid;text-decoration-color:#000000;text-transform:none;white-space:normal;isolation:auto;mix-blend-mode:normal"
+         id="path18-89" />
+    </g>
+    <g
+       transform="matrix(1.4216,0.73519,-0.73519,1.4216,-340.36,-576.59)"
+       id="g24-73">
+      <path
+         d="m 248.22,422.31 c -26.946,10.977 -31.414,-9.9194 -46.452,-30.645 25.877,-0.0397 31.396,11.443 46.452,30.645 z"
+         color="#000000"
+         color-rendering="auto"
+         fill="#ff4df9"
+         fill-opacity="0.37647"
+         fill-rule="evenodd"
+         image-rendering="auto"
+         shape-rendering="auto"
+         solid-color="#000000"
+         style="text-indent:0;text-decoration-line:none;text-decoration-style:solid;text-decoration-color:#000000;text-transform:none;white-space:normal;isolation:auto;mix-blend-mode:normal"
+         id="path22-6" />
+    </g>
   </g>
 </svg>

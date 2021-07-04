@@ -1,21 +1,18 @@
 import { Container, Row, Col, Image } from 'react-bootstrap';
-import Table from 'react-bootstrap/Table'
 import perfil from '../../assets/perfil.jpg'
+import './about.css'
 export default function about() {
     return (<Container>
         <Row className="justify-content-md-center">
-            <Col xl='2'><Image src={perfil} roundedCircle /></Col>
-            <Col md="auto">
-                <Table responsive>
+            <Col xl="10">
+                <Image className="img-center" src={perfil} roundedCircle />
 
-                    <p className="text"><br />
+                <p className="text text-center"><br />
                         Contato: Vera Gavaza<br />
 Telefone: (27) 9 99732190<br />
 Email: gavazzavera@gmail.com</p>
-
-
-                </Table>
             </Col>
         </Row>
+        <Row ><Col className="espaco"></Col></Row>
     </Container>)
 }

@@ -6,15 +6,11 @@ import circulo from '../../assets/circulo-yoga.png'
 export default function home() {
     return (<Container>
         <Row className="justify-content-md-center">
-            <Col xs lg='8' xs="auto">
-                <h1 className="text">Curso de Formação em Yoga</h1>
-
-            </Col>
-        </Row>
-        <Row>
-            <Col xs lg='2'></Col><Col xs lg="8" xs="auto">
-                <Image src={propaganda} alt="Propaganda" fluid />
-                <p className='text justify'>
+            <Col lg="10" xs="auto">
+                <h1 className="text-center">Curso de Formação em Yoga</h1>
+                <Image className='img-center' alt="propaganda" src={propaganda} fluid />
+                <br />
+                <p className='text justify text-medium'>
                     Namaste!
                     <br />
                     Estamos muito felizes. As condições se reuniram para um novo Curso de
@@ -39,9 +35,11 @@ export default function home() {
 <br />
                     Curso de Formação em Yoga 2020
                 </p>
-
-                <img src={circulo} alt="Propaganda" />
-                <p className='text justify'><h3>Sobre o curso</h3>
+                <br />
+                <Image className='img-center' src={circulo} alt="Propaganda" fluid />
+                <br />
+                <h3>Sobre o curso</h3>
+                <p className='text justify text-medium'>
                     Mais do que um curso de formação profissional, uma oportunidade de se
                     aprofundar na prática e compreender a importância de diferentes aspectos
                     fundamentais para o autoconhecimento. <br />
@@ -52,8 +50,9 @@ export default function home() {
                     O Curso também capacita como professor de Haṭha-Yoga.
                     <br />
                     <br />
-                    <h3 className='text'>Quem pode fazer o curso </h3>
-
+                </p>
+                <h3 className='text'>Quem pode fazer o curso </h3>
+                <p className='text justify text-medium'>
                     Todos que desejarem ter uma vida mais feliz, empoderar-se de sua jornada
                     espiritual e de autoconhecimento, transmitirem os ensinamentos e práticas do
                     Yoga, auxiliando também aos demais alunos em suas respectivas jornadas. Este
@@ -61,13 +60,16 @@ export default function home() {
                     com sua sabedoria espiritual.
                     <br />
                     <br />
-                    <h3>Carga horária</h3>
+                </p>
+                <h3>Carga horária</h3>
+                <p className="text justify text-medium">
                     200 horas de aulas teóricas, práticas e estágio*.<br />
-                    <span className='text-small'>* obrigatório para quem quer atuar como professor.</span><br />
-                    <br />
-                    <p className="text left">
-                        <h3>O que você irá aprender</h3>
-                        Introdução à história e filosofia do Yoga;<br />
+                </p>
+                <span className='text text-small'>* obrigatório para quem quer atuar como professor.</span><br />
+                <br />
+                <h3>O que você irá aprender</h3>
+                <p className="text justify text-medium">
+                    Introdução à história e filosofia do Yoga;<br />
                         Estilos de Yoga: Haṭha-Yoga tradicional, Vinyasa Flow Yoga, Yoga<br />
                         restaurativa;<br />
                         Anatomia do Yoga (sistema energético sutil);<br />
@@ -78,9 +80,9 @@ export default function home() {
                         Alinhamento e ajustes de āsanas e técnicas de como ensinar;<br />
                         Marketing do Yoga;<br />
                         Ética e como lecionar o Yoga.<br />
-                    </p>
-
                 </p>
+
+
             </Col>
         </Row>
     </Container>)

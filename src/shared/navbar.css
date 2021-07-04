@@ -2,23 +2,23 @@
     width: 200px;
     height: 100px;
   }
+
 #nav{
-    margin-top: 10px;
-    margin-left: 20%;
-    margin-right: 20%;
+    margin-top: -10px;
+    margin-left: 10px;
+    margin-right: 10px;
     margin-bottom: 50px;
     box-shadow:0px 0px 10px #3c518681;
-    border-radius: 30px;
+    border-radius: 10px;
     background-color: #FFF5DE;
 }
 
 body{
     background-color: #FFF5DE; 
 }
-
 .nav-text{
     font-family: SherrySwash;
-    font-size: larger;
+    font-size: x-large;
     color:#3C5186 !important;
 }
 
