@@ -1,27 +1,19 @@
-import { Container, Row, Col } from 'react-bootstrap';
+import { Container, Row, Col, Image } from 'react-bootstrap';
 import Table from 'react-bootstrap/Table'
+import perfil from '../../assets/perfil.jpg'
 export default function about() {
     return (<Container>
         <Row className="justify-content-md-center">
+            <Col xl='2'><Image src={perfil} roundedCircle /></Col>
             <Col md="auto">
-
-
-
                 <Table responsive>
-                    <thead>
-                        <h1>Contatos</h1>
-                    </thead>
-                    <tbody>
-                        <tr>
-                            <td>Contato:</td> <td>Vera Gavaza</td>
-                        </tr>
-                        <tr>
-                            <td>Telefone:</td> <td>(27) 9 99732190</td>
-                        </tr>
-                        <tr>
-                            <td>Email:</td> <td>gavazzavera@gmail.com</td>
-                        </tr>
-                    </tbody>
+
+                    <p className="text"><br />
+                        Contato: Vera Gavaza<br />
+Telefone: (27) 9 99732190<br />
+Email: gavazzavera@gmail.com</p>
+
+
                 </Table>
             </Col>
         </Row>

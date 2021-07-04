@@ -9,7 +9,7 @@ export default function Routes() {
             <Appnav></Appnav>
             <Switch>
                 <Route path="/" exact component={Home} />
-                <Route path="/about" component={About} />
+                <Route path="/about" exact component={About} />
                 <Route path="/*" component={Home} />
             </Switch>
         </BrowserRouter>

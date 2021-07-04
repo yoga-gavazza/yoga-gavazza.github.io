@@ -1,19 +1,19 @@
 
-import { Container, Row, Col } from 'react-bootstrap';
+import { Container, Row, Col, Image } from 'react-bootstrap';
 import './home.css'
 import propaganda from '../../assets/propaganda-curso.png'
 import circulo from '../../assets/circulo-yoga.png'
 export default function home() {
     return (<Container>
         <Row className="justify-content-md-center">
-            <Col xs lg='8' md="auto">
+            <Col xs lg='8' xs="auto">
                 <h1 className="text">Curso de Formação em Yoga</h1>
 
             </Col>
         </Row>
         <Row>
-            <Col xs lg="8">
-                <img src={propaganda} alt="Propaganda" />
+            <Col xs lg='2'></Col><Col xs lg="8" xs="auto">
+                <Image src={propaganda} alt="Propaganda" fluid />
                 <p className='text justify'>
                     Namaste!
                     <br />
@@ -38,10 +38,8 @@ export default function home() {
                     Gostou? Então Leia abaixo mais algumas informações.
 <br />
                     Curso de Formação em Yoga 2020
-                </p></Col>
-        </Row>
-        <Row>
-            <Col xs lg="8">
+                </p>
+
                 <img src={circulo} alt="Propaganda" />
                 <p className='text justify'><h3>Sobre o curso</h3>
                     Mais do que um curso de formação profissional, uma oportunidade de se
@@ -62,23 +60,24 @@ export default function home() {
                     curso é um mergulho profundo, seja qual for a sua busca, para entrar em contato
                     com sua sabedoria espiritual.
                     <br />
-                    Carga horária
-                    200 horas de aulas teóricas, práticas e estágio*.
-                    * obrigatório para quem quer atuar como professor.
+                    <br />
+                    <h3>Carga horária</h3>
+                    200 horas de aulas teóricas, práticas e estágio*.<br />
+                    <span className='text-small'>* obrigatório para quem quer atuar como professor.</span><br />
                     <br />
                     <p className="text left">
-                        O que você irá aprender
-                        Introdução à história e filosofia do Yoga;
-                        Estilos de Yoga: Haṭha-Yoga tradicional, Vinyasa Flow Yoga, Yoga
-                        restaurativa;
-                        Anatomia do Yoga (sistema energético sutil);
-                        Anatomia e fisiologia do corpo humano;
-                        Lesões comuns na prática de Yoga;
-                        Meditação/Nidra/Sânscrito para āsanas e mantras;
-                        Os Yoga-Sūtras de Patañjali: Conhecendo a tradição;
-                        Alinhamento e ajustes de āsanas e técnicas de como ensinar;
-                        Marketing do Yoga;
-                        Ética e como lecionar o Yoga.
+                        <h3>O que você irá aprender</h3>
+                        Introdução à história e filosofia do Yoga;<br />
+                        Estilos de Yoga: Haṭha-Yoga tradicional, Vinyasa Flow Yoga, Yoga<br />
+                        restaurativa;<br />
+                        Anatomia do Yoga (sistema energético sutil);<br />
+                        Anatomia e fisiologia do corpo humano;<br />
+                        Lesões comuns na prática de Yoga;<br />
+                        Meditação/Nidra/Sânscrito para āsanas e mantras;<br />
+                        Os Yoga-Sūtras de Patañjali: Conhecendo a tradição;<br />
+                        Alinhamento e ajustes de āsanas e técnicas de como ensinar;<br />
+                        Marketing do Yoga;<br />
+                        Ética e como lecionar o Yoga.<br />
                     </p>
 
                 </p>

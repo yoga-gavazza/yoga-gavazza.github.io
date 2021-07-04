@@ -1,0 +1,8 @@
+@font-face {
+    font-family: 'SherrySwash';
+    src: local('SherrySwash'), url('./Font/cherrySwash/CherrySwash-Regular.ttf') format('truetype');
+  }
+  @font-face {
+    font-family: 'SherrySwash';
+    src: local('SherrySwash'), url('./Font/cherrySwash/CherrySwash-Bold.ttf') format('truetype');
+  }

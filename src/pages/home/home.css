@@ -1,4 +1,11 @@
+h1, h2, h3, h4, h5{
+    font-family: SherrySwash,Calibri,'Gill Sans', 'Gill Sans MT', 'Trebuchet MS', sans-serif !important;
+    color: #3C5186;
+    white-space: pre-line;
+
+}
 .text{
+    font-family: 'Courier New', Courier, monospace;
     color: #3C5186;
     white-space: pre-line;
 
@@ -14,4 +21,7 @@
     color: #9B72AA;
     color: #C6B4CE;
     color: #FFF5DE;
+}
+.text-small{
+    font-size: small;
 }

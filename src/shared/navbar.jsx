@@ -11,10 +11,10 @@ export default function Appnav() {
             <Navbar.Text>
                 <Nav className="mr-auto">
                     <Navbar>
-                        <Link to="/"><p className='nav-text'>Novidades</p> </Link>
+                        <Link to="/" className='nav-text'> Novidades</Link>
                     </Navbar>
                     <Navbar>
-                        <Link to="/about"><p className='nav-text'>Contato</p> </Link>
+                        <Link to="/about" className='nav-text'>Contato </Link>
                     </Navbar>
                 </Nav></Navbar.Text>
         </Navbar.Collapse>
