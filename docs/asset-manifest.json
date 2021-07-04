@@ -1,6 +1,6 @@
 {
   "files": {
-    "main.css": "/yoginigavazza/static/css/main.1c99fafe.chunk.css",
+    "main.css": "/yoginigavazza/static/css/main.bd4b634a.chunk.css",
     "main.js": "/yoginigavazza/static/js/main.79e4657b.chunk.js",
     "main.js.map": "/yoginigavazza/static/js/main.79e4657b.chunk.js.map",
     "runtime-main.js": "/yoginigavazza/static/js/runtime-main.7b2c9502.js",
@@ -12,7 +12,7 @@
     "static/js/3.82f38f5f.chunk.js.map": "/yoginigavazza/static/js/3.82f38f5f.chunk.js.map",
     "index.html": "/yoginigavazza/index.html",
     "static/css/2.4c97ca4f.chunk.css.map": "/yoginigavazza/static/css/2.4c97ca4f.chunk.css.map",
-    "static/css/main.1c99fafe.chunk.css.map": "/yoginigavazza/static/css/main.1c99fafe.chunk.css.map",
+    "static/css/main.bd4b634a.chunk.css.map": "/yoginigavazza/static/css/main.bd4b634a.chunk.css.map",
     "static/js/2.90656078.chunk.js.LICENSE.txt": "/yoginigavazza/static/js/2.90656078.chunk.js.LICENSE.txt",
     "static/media/circulo-yoga.9e9a5250.png": "/yoginigavazza/static/media/circulo-yoga.9e9a5250.png",
     "static/media/logo.7d42480f.svg": "/yoginigavazza/static/media/logo.7d42480f.svg",
@@ -22,7 +22,7 @@
     "static/js/runtime-main.7b2c9502.js",
     "static/css/2.4c97ca4f.chunk.css",
     "static/js/2.90656078.chunk.js",
-    "static/css/main.1c99fafe.chunk.css",
+    "static/css/main.bd4b634a.chunk.css",
     "static/js/main.79e4657b.chunk.js"
   ]
 }
