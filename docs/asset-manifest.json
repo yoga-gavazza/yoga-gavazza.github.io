@@ -1,28 +1,32 @@
 {
   "files": {
-    "main.css": "/yoginigavazza/static/css/main.5dd0ae9f.chunk.css",
-    "main.js": "/yoginigavazza/static/js/main.89153e85.chunk.js",
-    "main.js.map": "/yoginigavazza/static/js/main.89153e85.chunk.js.map",
-    "runtime-main.js": "/yoginigavazza/static/js/runtime-main.402c6a20.js",
-    "runtime-main.js.map": "/yoginigavazza/static/js/runtime-main.402c6a20.js.map",
-    "static/css/2.4c97ca4f.chunk.css": "/yoginigavazza/static/css/2.4c97ca4f.chunk.css",
-    "static/js/2.4a551796.chunk.js": "/yoginigavazza/static/js/2.4a551796.chunk.js",
-    "static/js/2.4a551796.chunk.js.map": "/yoginigavazza/static/js/2.4a551796.chunk.js.map",
-    "static/js/3.73a19a27.chunk.js": "/yoginigavazza/static/js/3.73a19a27.chunk.js",
-    "static/js/3.73a19a27.chunk.js.map": "/yoginigavazza/static/js/3.73a19a27.chunk.js.map",
-    "index.html": "/yoginigavazza/index.html",
-    "static/css/2.4c97ca4f.chunk.css.map": "/yoginigavazza/static/css/2.4c97ca4f.chunk.css.map",
-    "static/css/main.5dd0ae9f.chunk.css.map": "/yoginigavazza/static/css/main.5dd0ae9f.chunk.css.map",
-    "static/js/2.4a551796.chunk.js.LICENSE.txt": "/yoginigavazza/static/js/2.4a551796.chunk.js.LICENSE.txt",
-    "static/media/circulo-yoga.9e9a5250.png": "/yoginigavazza/static/media/circulo-yoga.9e9a5250.png",
-    "static/media/logo-lado.030c62a2.svg": "/yoginigavazza/static/media/logo-lado.030c62a2.svg",
-    "static/media/propaganda-curso.eb3e01ba.png": "/yoginigavazza/static/media/propaganda-curso.eb3e01ba.png"
+    "main.css": "/static/css/main.1f804777.chunk.css",
+    "main.js": "/static/js/main.6ee98611.chunk.js",
+    "main.js.map": "/static/js/main.6ee98611.chunk.js.map",
+    "runtime-main.js": "/static/js/runtime-main.bbd2e19e.js",
+    "runtime-main.js.map": "/static/js/runtime-main.bbd2e19e.js.map",
+    "static/css/2.4c97ca4f.chunk.css": "/static/css/2.4c97ca4f.chunk.css",
+    "static/js/2.43952f4d.chunk.js": "/static/js/2.43952f4d.chunk.js",
+    "static/js/2.43952f4d.chunk.js.map": "/static/js/2.43952f4d.chunk.js.map",
+    "static/js/3.82f38f5f.chunk.js": "/static/js/3.82f38f5f.chunk.js",
+    "static/js/3.82f38f5f.chunk.js.map": "/static/js/3.82f38f5f.chunk.js.map",
+    "index.html": "/index.html",
+    "static/css/2.4c97ca4f.chunk.css.map": "/static/css/2.4c97ca4f.chunk.css.map",
+    "static/css/main.1f804777.chunk.css.map": "/static/css/main.1f804777.chunk.css.map",
+    "static/js/2.43952f4d.chunk.js.LICENSE.txt": "/static/js/2.43952f4d.chunk.js.LICENSE.txt",
+    "static/media/foto1.d876f119.jpg": "/static/media/foto1.d876f119.jpg",
+    "static/media/foto2.7b311673.jpg": "/static/media/foto2.7b311673.jpg",
+    "static/media/foto3.81e29260.jpg": "/static/media/foto3.81e29260.jpg",
+    "static/media/foto4.f79aba2c.jpg": "/static/media/foto4.f79aba2c.jpg",
+    "static/media/foto5.b883fba7.jpg": "/static/media/foto5.b883fba7.jpg",
+    "static/media/foto6.ae76532b.jpg": "/static/media/foto6.ae76532b.jpg",
+    "static/media/logo-lado.030c62a2.svg": "/static/media/logo-lado.030c62a2.svg"
   },
   "entrypoints": [
-    "static/js/runtime-main.402c6a20.js",
+    "static/js/runtime-main.bbd2e19e.js",
     "static/css/2.4c97ca4f.chunk.css",
-    "static/js/2.4a551796.chunk.js",
-    "static/css/main.5dd0ae9f.chunk.css",
-    "static/js/main.89153e85.chunk.js"
+    "static/js/2.43952f4d.chunk.js",
+    "static/css/main.1f804777.chunk.css",
+    "static/js/main.6ee98611.chunk.js"
   ]
 }

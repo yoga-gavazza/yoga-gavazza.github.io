@@ -14,6 +14,9 @@ export default function Appnav() {
                         <Link to="/" className='nav-text'> Novidades</Link>
                     </Navbar>
                     <Navbar>
+                        <Link to="/galeria" className='nav-text'>Galeria </Link>
+                    </Navbar>
+                    <Navbar>
                         <Link to="/about" className='nav-text'>Contato </Link>
                     </Navbar>
                 </Nav>
