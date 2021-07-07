@@ -34,7 +34,7 @@ export default function Home() {
         </Row>
       ) : (
         postagem.map((post) => (
-          <Row className="justify-content-md-center">
+          <Row key={post._id} className="justify-content-md-center">
             <Col lg="10" xs="auto">
               <article>
                 <div>

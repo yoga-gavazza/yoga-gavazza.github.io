@@ -1,19 +1,19 @@
 {
   "files": {
-    "main.css": "/static/css/main.1f804777.chunk.css",
-    "main.js": "/static/js/main.3bf2d76e.chunk.js",
-    "main.js.map": "/static/js/main.3bf2d76e.chunk.js.map",
-    "runtime-main.js": "/static/js/runtime-main.98b0fab8.js",
-    "runtime-main.js.map": "/static/js/runtime-main.98b0fab8.js.map",
+    "main.css": "/static/css/main.1272417d.chunk.css",
+    "main.js": "/static/js/main.0369d685.chunk.js",
+    "main.js.map": "/static/js/main.0369d685.chunk.js.map",
+    "runtime-main.js": "/static/js/runtime-main.c6117544.js",
+    "runtime-main.js.map": "/static/js/runtime-main.c6117544.js.map",
     "static/css/2.4c97ca4f.chunk.css": "/static/css/2.4c97ca4f.chunk.css",
-    "static/js/2.1bc0cfe8.chunk.js": "/static/js/2.1bc0cfe8.chunk.js",
-    "static/js/2.1bc0cfe8.chunk.js.map": "/static/js/2.1bc0cfe8.chunk.js.map",
-    "static/js/3.2e12b695.chunk.js": "/static/js/3.2e12b695.chunk.js",
-    "static/js/3.2e12b695.chunk.js.map": "/static/js/3.2e12b695.chunk.js.map",
+    "static/js/2.cfb55719.chunk.js": "/static/js/2.cfb55719.chunk.js",
+    "static/js/2.cfb55719.chunk.js.map": "/static/js/2.cfb55719.chunk.js.map",
+    "static/js/3.18b34b5a.chunk.js": "/static/js/3.18b34b5a.chunk.js",
+    "static/js/3.18b34b5a.chunk.js.map": "/static/js/3.18b34b5a.chunk.js.map",
     "index.html": "/index.html",
     "static/css/2.4c97ca4f.chunk.css.map": "/static/css/2.4c97ca4f.chunk.css.map",
-    "static/css/main.1f804777.chunk.css.map": "/static/css/main.1f804777.chunk.css.map",
-    "static/js/2.1bc0cfe8.chunk.js.LICENSE.txt": "/static/js/2.1bc0cfe8.chunk.js.LICENSE.txt",
+    "static/css/main.1272417d.chunk.css.map": "/static/css/main.1272417d.chunk.css.map",
+    "static/js/2.cfb55719.chunk.js.LICENSE.txt": "/static/js/2.cfb55719.chunk.js.LICENSE.txt",
     "static/media/foto1.d876f119.jpg": "/static/media/foto1.d876f119.jpg",
     "static/media/foto2.7b311673.jpg": "/static/media/foto2.7b311673.jpg",
     "static/media/foto3.81e29260.jpg": "/static/media/foto3.81e29260.jpg",
@@ -23,10 +23,10 @@
     "static/media/logo-lado.030c62a2.svg": "/static/media/logo-lado.030c62a2.svg"
   },
   "entrypoints": [
-    "static/js/runtime-main.98b0fab8.js",
+    "static/js/runtime-main.c6117544.js",
     "static/css/2.4c97ca4f.chunk.css",
-    "static/js/2.1bc0cfe8.chunk.js",
-    "static/css/main.1f804777.chunk.css",
-    "static/js/main.3bf2d76e.chunk.js"
+    "static/js/2.cfb55719.chunk.js",
+    "static/css/main.1272417d.chunk.css",
+    "static/js/main.0369d685.chunk.js"
   ]
 }

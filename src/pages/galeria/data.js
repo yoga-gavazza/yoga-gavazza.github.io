@@ -30,10 +30,6 @@ const galeria = [
     alt: "",
     url: foto6,
   },
-  {
-    alt: "",
-    url: "https://drive.google.com/uc?export=view&id=",
-  },
 ];
 
 export default galeria;
