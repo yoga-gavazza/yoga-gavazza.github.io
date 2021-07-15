@@ -13,7 +13,7 @@ export default function Routes() {
       <Appnav></Appnav>
       <Switch>
         <Route path="/" exact component={Home} />
-        <Route path="/about" exact component={About} />
+        <Route path="/sobre" exact component={About} />
         <Route path="/galeria" exact component={Galeria} />
         <Route path="/login" exact component={Login} />
         <Route path="/postagem" exact component={Postagem} />

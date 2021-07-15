@@ -1,4 +1,11 @@
-.espaco{
-height: 100vh;
-width: 100vw;
+.espaco {
+  height: 100vh;
+  width: 100vw;
+}
+
+.text-larger {
+  font-size: x-large;
+}
+.perfil-size {
+  width: 300px;
 }

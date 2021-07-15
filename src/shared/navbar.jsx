@@ -24,8 +24,8 @@ export default function Appnav() {
               </Link>
             </Navbar>
             <Navbar>
-              <Link to="/about" className="nav-text">
-                Contato{" "}
+              <Link to="/sobre" className="nav-text">
+                Quem somos
               </Link>
             </Navbar>
             <Navbar>
